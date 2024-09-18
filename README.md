@@ -6,7 +6,7 @@ This repository contains a Jupyter notebook demonstrating how Large Language Mod
 
 ## Overview
 
-The notebook explores the application of LLMs, specifically OpenAI's GPT models, to enhance various aspects of incident management:
+The notebook explores the application of LLMs, specifically Claude models, to enhance various aspects of incident management:
 
 - Incident classification
 - Root cause analysis
@@ -28,19 +28,14 @@ The notebook explores the application of LLMs, specifically OpenAI's GPT models,
 
 - Python 3.x
 - Jupyter Notebook
-- OpenAI API key
+- AWS tokens
 - Required Python libraries (listed in the notebook)
 
 ## Usage
 
 1. Clone this repository
 2. Install the required dependencies
-3. Set up your OpenAI API key
-4. Open and run the Jupyter notebook
-
-## Note
-
-This notebook is for demonstration purposes and may require modifications for production use. Ensure compliance with OpenAI's usage policies and your organization's data handling guidelines.
+3. Open and run the Jupyter notebook
 
 ## Contributing
 
